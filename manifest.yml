@@ -1,0 +1,5 @@
+---
+applications:
+- memory: 1G
+  path: target/pcf-tcp-routing-test-1.0-SNAPSHOT.jar
+  health-check-type: process
